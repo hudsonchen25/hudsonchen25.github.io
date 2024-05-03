@@ -1,0 +1,76 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/ccb.png",
+            "title": "Callable Convertible Bond Pricing",
+            "bodyText": "- Collaborated with a professor at Cornell Johnson Business School \n - Collected real-time data on Callable Convertible Bonds from Bloomberg Terminal \n - Developed Monte Carlo simulations and Binomial Tree Models for bond pricing \n - Effectively communicated pricing results using an interactive user interface utilizing Excel Visual Basics",
+            
+            "tags" : [
+                "VBA",
+                "Monte Carlo",
+                "Fix Income",
+                "Bond Pricing",
+                "Binomial Tree"
+            ]
+        },
+        {
+            "image" : "images/projects/stopre.png",
+            "title": "Stock Prediction System-Based Data Analysis",
+            "bodyText": "- Worked with Chinese Academy of Science \n - Developed a Python web crawler to collect financial news and public reviews, utilized Chat GPT API to label \n - Created a comprehensive dataset with investor sentiment index, macroeconomic data, and fundamental data \n - Achieved an R-squared value of 0.71 in stock price forecasting by the LSTM model",
+            "tags" : [
+                "Python",
+                "Pandas",
+                "Web Scrapper",
+                "Machine Learning",
+                "Stock Price Forecasting",
+                "Chat GPT API"
+            ]
+        },
+        {
+            "image" : "images/projects/boreal.png",
+            "title": "Emotion Detection",
+            "bodyText": "- mentorship program by Borealis AI, backed by Royal Bank of Canada \n - Utilized a Convolutional Neural Network, ResNet-18, to classify emotions based on picture pixels",
+
+            "tags" : [
+                "PyTorch",
+                "Neural Network",
+                "Collaboration"
+            ]
+        },
+        {
+            "image" : "images/projects/imdb.png",
+            "title": "IMDB Genre Classification Competition",
+            "bodyText": "- A competition held by Kaggle \n - developed machine learning models to classify movie genre based on descriptions \n - preprocessed the raw data of description using Natural Language Processing \n - Handled sparse data",
+            "links": [
+                {
+                    "text": "Kaggle",
+                    "href": "https://www.kaggle.com/competitions/w22projii"
+                }
+            ],
+            "tags" : [
+                "R",
+                "NLP",
+                "Machine Learning",
+                "Classification"
+            ]
+        },
+        {
+            "image" : "images/projects/nytaxi.png",
+            "title": "New York Taxi Trip Duration Prediction Competition",
+            "bodyText": "- A competition held by Kaggle, achieved second place \n - Constructed a Boosting model to predict trip durations \n - engineered features including geometric rotation, spheral distance and interation terms",
+            "links": [
+                {
+                    "text": "Kaggle",
+                    "href": "https://www.kaggle.com/competitions/w22proj1"
+                }
+            ],
+            "tags" : [
+                "R",
+                "Machine Learning",
+                "Supervised Learning",
+                "Data Prepocessing",
+                "Feature Engineering"
+            ]
+        }
+    ]
+}
