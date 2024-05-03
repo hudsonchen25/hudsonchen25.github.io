@@ -1,0 +1,37 @@
+{
+    "experiences": [
+        {
+            "title": "Systematic Trader",
+            "subtitle": "Core Value Capital",
+            "workType": "Internship",
+            "workDescription": [
+                "Develop mean-reverting momentum indices through advanced polynomial regression analysis, minimize bias by performing model selection with hypothesis testing",
+                "Design high-frequency trading strategies in the foreign exchange and commodities market by partnering with discretionary traders, achieving a 14% annualized return by adeptly navigating various market trends",
+                "Implement execution, monitoring, and automation development with Python to enhance efficiency"
+            ],
+            "dateText": "03/2024 – Present"
+        },
+        {
+            "title": "Quant Researcher",
+            "subtitle": "CITIC Securities",
+            "workType": "Internship",
+            "workDescription": [
+                "Augmented trading volatility discrepancy trading strategy to 8.3% excessive return in the A-share stock market",
+                "Exploited profitable trading opportunities based on historical merger and acquisition activities, introduced a strangle options trading strategy, and optimized with random search using Python",
+                "Enhanced trade execution and risk management by collaborating with traders to refine trading signals with stop profit/loss"
+            ],
+            "dateText": "06/2023 – 08/2023"
+        },
+        {
+            "title": "Quant Analyst",
+            "subtitle": "Shenwan Hongyuan Securities",
+            "workType": "Internship",
+            "workDescription": [
+                "Extracted, synthesized, and integrated a 10-year financial data from Wind Database, engineered features to capture trends, and performed feature selection with Random Forest",
+                "Constructed dimension reduction to the heavy dataset utilizing Principal Component Analysis (PCA)",
+                "Collaborated with the research team to enhance trading algorithms, and maintained thorough documentation"
+            ],
+            "dateText": "07/2022 – 09/2022"
+        }
+    ]
+}

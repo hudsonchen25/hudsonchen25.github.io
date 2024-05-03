@@ -1,0 +1,76 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/R_logo.png",
+                    "title": "R"
+                },
+                {
+                    "icon": "images/skills/excel.png",
+                    "title": "Excel Visual Basics"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]},
+        {
+            "title": "Coursework & Skills",
+            "items" : [
+                {
+                    "icon": "images/skills/ml.png",
+                    "title": "Machine Learning"
+                },
+                {
+                    "icon": "images/skills/prob.png",
+                    "title": "Probability"
+                },
+                {
+                    "icon": "images/skills/systrd.png",
+                    "title": "Systematic Trading"
+                }
+            ]
+        },
+        {
+            "title": "Financial Concepts",
+            "items" : [
+                {
+                    "icon": "images/skills/fixinc.png",
+                    "title": "Fixed Income"
+                },
+                {
+                    "icon": "images/skills/deriv.png",
+                    "title": "Derivatives"
+                },
+                {
+                    "icon": "images/skills/assall.png",
+                    "title": "Portfolio Management"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/blbg.png",
+                    "title": "Bloomberg"
+                },
+                {
+                    "icon": "images/skills/mt4.png",
+                    "title": "MetaTrader4"
+                },
+                {
+                    "icon": "images/skills/wind.png",
+                    "title": "Wind Database"
+                }
+            ]
+    }
+]}

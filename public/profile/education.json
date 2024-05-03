@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Aug 2023 - Dec 2024",
+            "cardTitle": "Master of Engineering, Major in Financial Engineering",
+            "cardSubtitle":"Cornell University, Ithaca, New York",
+            "cardDetailedText": "CGPA - 3.85",
+            "icon" : {
+                "src": "images/education/cornell.png"
+            }
+        },
+        {
+            "title": "Sep 2019 - May 2023",
+            "cardTitle": "Bachelor of Science, Major in Mathematics, Minor in Economics",
+            "cardSubtitle":"Queen's University, Kingston, Ontario",
+            "cardDetailedText": "CGPA - 4.25/4.30, Highest Standing in Department",
+            "icon" : {
+                "src": "images/education/queens.png"
+            }
+        }
+    ]
+}
